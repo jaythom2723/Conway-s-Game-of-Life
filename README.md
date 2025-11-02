@@ -7,6 +7,7 @@ Works cross-platform for Linux + Windows, unsure of Mac
 
 ## Controls
 R - Reset
+
 ESC - Exit
 
 # What is Game of Life?
