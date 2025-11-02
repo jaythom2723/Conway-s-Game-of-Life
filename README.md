@@ -1,6 +1,8 @@
 # Conway's Game of Life
 A recreation of conway's game of life in lua with love2d. A relatively simple project with simple controls.
 
+[!](https://raw.githubusercontent.com/jaythom2723/Conway-s-Game-of-Life/main/preview.mp4)
+
 ## Installation
 Download the latest release and extract the zip file anywhere on your computer.
 Works cross-platform for Linux + Windows, unsure of Mac
